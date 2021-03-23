@@ -1,0 +1,4 @@
+m = int(input("Digite o peso:"))
+v =2*2
+ec = m*v/2
+print("o joule é igual",ec)
