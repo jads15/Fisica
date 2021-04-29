@@ -1,4 +1,6 @@
-m = int(input("Digite o peso:"))
-v =2*2
-ec = m*v/2
-print("o joule é igual",ec)
+m = float(input("Digite o peso:"))
+v = float(input("Digite a velocidade:"))
+ec = m*v**2/2
+print('a energia cinética é',ec,"Joule")
+
+
